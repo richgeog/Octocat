@@ -1,1 +1,3 @@
 Q. Explain what git clone does, in your own words.
+
+A. Git clone allows you to clone any repo on git to your local system. It will effectively copy everything on that repo to your system and it can be kept updated of further commits to the master from anyone else that is working on that repo at the same time.
