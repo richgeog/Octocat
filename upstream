@@ -1,1 +1,3 @@
 Q. Explain what the "upstream" remote is usually used for, in your own words.
+
+A. The upstream remote is used to push back the changes you have made to the cloned repo and this will then update the original repo on git hub.
