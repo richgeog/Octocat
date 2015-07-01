@@ -1,1 +1,3 @@
 Q. Explain what a branch is, in your own words.
+
+A. A branch is a way to make changes away from the master route without updating te master route. It allows other people to contibute to your code without affecting the main master branch until the branch is merged into the master.
